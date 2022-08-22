@@ -1,0 +1,33 @@
+.phone_img{
+    margin-top: 50px;
+    margin-left: 100px;
+}
+.phone_img img{
+    height: 500px;
+    width: 420px;
+}
+.separate{
+    display: flex;
+}
+.con{
+    margin-top: 50px;
+    margin-left: 50px;
+    line-height: 50px;
+}
+.btn button{
+   margin:10px 10px;
+   margin-left: 100px;
+   margin-top: 20px;
+   height: 45px;
+   width: 150px;
+   background-color: rgb(226, 156, 27);
+}
+.flip{
+    background-color: rgb(243, 239, 239);
+    margin-bottom: 30px;
+}
+
+.btn button i{
+    font-size: 20px;
+    margin:8px 8px ;
+}
